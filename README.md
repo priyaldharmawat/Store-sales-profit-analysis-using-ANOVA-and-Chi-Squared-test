@@ -31,9 +31,9 @@ The dataset SuperStoreOrders.csv contains the following columns:
 
 ## Key Findings
 
-	1.	Sales by Region: Most orders came from the Central and South regions.
-	2.	Profit by Subcategory: The highest profits were made from the Copier and Phone subcategories.
-	3.	Shipping Methods: The most common shipping method used was the “Standard Class.”
-	4.	Significant Associations:
+	.	Sales by Region: Most orders came from the Central and South regions.
+	.	Profit by Subcategory: The highest profits were made from the Copier and Phone subcategories.
+	.	Shipping Methods: The most common shipping method used was the “Standard Class.”
+	.	Significant Associations:
 	•	The region and product category have a significant association.
 	•	There is a difference in sales distribution based on the shipping method.
